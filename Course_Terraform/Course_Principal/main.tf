@@ -12,13 +12,13 @@
 ## •	Locais
  
 terraform  {
-    ## diversas configurações basicas do terradorm
+    ## diversas configurações basicas do terraform
 
 }
 
-provisioner "nome do provider" {
+provider "nome do provider" {
 
-    ##configuração necessaria do AWS
+    ## configuração necessaria do AWS
 
 }
 
@@ -58,4 +58,4 @@ locals {
   ## da um nome pra ela, e ao inves de você ter que ficar repetindo aquele codigo toda vêz, você apenas chama esse codigo, pelo nome que declaramos aqui, e assim que funciona o locals
 }
 
-## Overview dos blocos do terraform concluida
+## Overview dos blocos do terraform concluida.
