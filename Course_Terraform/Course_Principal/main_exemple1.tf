@@ -1,5 +1,6 @@
 ## main_exemple1.tf
 ## Temos aqui um bloco da configuração do terraform
+
 terraform {
     required_version = "value"
     required_providers {
