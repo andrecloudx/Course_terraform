@@ -1,1 +1,3 @@
 ## terraform application
+
+## Inicializing
