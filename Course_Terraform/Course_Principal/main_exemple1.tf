@@ -2,7 +2,8 @@
 ## Temos aqui um bloco da configuração do terraform
 
 terraform {
-    required_version = "value"
+    required_version = "~> 1.0.0, < 1.2.0"
+
     required_providers {
       aws {
         version = "3.7.0"
@@ -25,6 +26,15 @@ provider "aws" {
     }    
 }
 
+resource "aws_instance" "instanciaEC2" {
+  
+  
+  
+}
+
+locals {
+  
+}
 
 
 
