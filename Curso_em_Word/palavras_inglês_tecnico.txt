@@ -60,5 +60,11 @@ Constraints - Restrições
 
 Restricted - Restrito
 
+kinds - tipos
+
+above- acima
+
+they - eles
+
   
 
