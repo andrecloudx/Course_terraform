@@ -25,3 +25,4 @@ resource "azurerm_storage_container" "first-container-azurerm" {
 }
 
 ## Vamos fazendo a implementação dessa configuração e fazer o deploy disto.
+## continuando a desenvolver toda infraestrutura!
