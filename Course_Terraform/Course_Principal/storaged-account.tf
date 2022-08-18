@@ -2,7 +2,7 @@
 
 resource "azurerm_resource_group" "first-resource-azurerm" {
   name     = ""
-  location = ""
+  location = var.location
 
   tags = ""
 }
@@ -10,9 +10,9 @@ resource "azurerm_resource_group" "first-resource-azurerm" {
 resource "azurerm_storage_account" "first-storage-azurerm" {
   name                     = ""
   resource_group_name      = ""
-  location                 = ""
-  account_tier             = ""
-  account_replication_type = ""
+  location                 = var.location
+  account_tier             = var.account_tier
+  account_replication_type = var.account_replication_type
 
   tags = {
     environment = ""
