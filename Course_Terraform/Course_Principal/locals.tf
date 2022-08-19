@@ -8,5 +8,6 @@ locals {
         owner = "AndrePanizza"
         mangerd-by = "terraform"
         }
-  
+
+    
 }

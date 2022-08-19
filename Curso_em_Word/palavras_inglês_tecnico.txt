@@ -1,4 +1,5 @@
 palavras que preciso lembrar em ingles:
+that -  isso
 
 then - então
 
@@ -16,7 +17,7 @@ are  - é
 
 also - também
 
-present - Atualmente
+present - Presente
 
 will - vontade
 
@@ -54,7 +55,7 @@ if - se
 
 should be - deve ser
 
-usually - Normalmente
+usually - Normalmente / geralmente
 
 Constraints - Restrições
 
@@ -66,5 +67,57 @@ above- acima
 
 they - eles
 
-  
+must - dever
+
+store - loja
+
+so - então
+
+same - Mesmo
+
+current - Atual
+
+content - contéudo
+
+better - melhor
+
+prior - previo 
+
+refresh - atualizar
+
+does a - faz um
+
+amoungus - todos entre
+
+between - entre
+
+against - 
+
+want - quero
+
+against - contra
+
+say - digamos
+
+will record - ira gravar
+
+we - nos
+
+from - de
+
+improve - melhorar
+
+purpose - propósito
+
+why - porque
+
+take - pegar
+
+effect - efeito
+
+rentained - retidos
+
+below - abaixo
+
+incomming - entrante 
 
