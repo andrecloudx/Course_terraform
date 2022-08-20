@@ -121,3 +121,26 @@ below - abaixo
 
 incomming - entrante 
 
+because - porque
+
+cause - porque
+
+make - faço
+
+makes - faz
+
+sure - claro
+
+each - cada 
+
+before - antes da
+
+nobody - ninguem
+
+same - mesma
+
+ensures - garantir
+
+tenancy - arrendamento
+
+means - significa

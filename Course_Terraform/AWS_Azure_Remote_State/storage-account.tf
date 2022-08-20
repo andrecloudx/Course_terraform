@@ -16,7 +16,7 @@ resource "azurerm_storage_account" "first_storage_account" {
   tags = local.commons_tags
 
   blob_properties {
-    ## change_feed_enabled = false  bloco do blob aceita varios argumentos optionals
+    ## change_feed_enabled = false  bloco do blob aceita varios argumentos optionals.
     versioning_enabled = true
   }
 
