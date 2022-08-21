@@ -19,7 +19,7 @@ resource "azurerm_storage_account" "first-storage-azurerm" {
 }
 
 resource "azurerm_storage_container" "first-container-azurerm" {
-  name                  = azurerm_storage_account.first-storage-azurerm.name
+  name                  = "terraform-container"
   storage_account_name  = "imagens"
 }
 
