@@ -144,3 +144,5 @@ ensures - garantir
 tenancy - arrendamento
 
 means - significa
+
+either - tampouco
